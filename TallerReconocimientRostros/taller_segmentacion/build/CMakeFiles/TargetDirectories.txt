@@ -1,0 +1,4 @@
+/home/camilo/Universidad/procesamiento_imagenes/TallerReconocimientRostros/taller_segmentacion/build/CMakeFiles/parte_a.dir
+/home/camilo/Universidad/procesamiento_imagenes/TallerReconocimientRostros/taller_segmentacion/build/CMakeFiles/parte_b.dir
+/home/camilo/Universidad/procesamiento_imagenes/TallerReconocimientRostros/taller_segmentacion/build/CMakeFiles/edit_cache.dir
+/home/camilo/Universidad/procesamiento_imagenes/TallerReconocimientRostros/taller_segmentacion/build/CMakeFiles/rebuild_cache.dir
