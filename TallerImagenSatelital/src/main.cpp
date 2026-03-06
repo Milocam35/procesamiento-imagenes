@@ -146,6 +146,7 @@ int main() {
                 suavizadoGaussiano(img);
                 break;
             case 4:
+            
                 kernelGaussiano5x5(img);
                 break;
             case 5:
